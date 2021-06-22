@@ -8,5 +8,7 @@
   Then open your terminal in the json-server folder and write:
   ### `json-server --watch db.json -p 3001 -d 2000`
   
+  #### Note: You need to launch the temporary json-server file first in order to run the Site.
+  
  ## Click [HERE](https://rtk363.github.io/React-Restaurant_website/) to view it on your Browser!
  
