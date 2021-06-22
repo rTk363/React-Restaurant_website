@@ -10,5 +10,5 @@
   
   #### Note: You need to launch the temporary json-server file first in order to run the Site.
   
- ## Click [HERE](https://rtk363.github.io/React-Restaurant_website/) to view it on your Browser!
+ ## Click [HERE](https://rtk363.github.io/React-Restaurant_website/) to view the Site on your Browser!
  
